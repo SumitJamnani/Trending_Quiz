@@ -1,6 +1,6 @@
-#New Website & Application Published
+# New Website & Application Published
 
-##Topic : Trending Quiz
+## Topic : Trending Quiz
 
 Hey folks, i have developed new website & application. Through this project you can play trending quiz (technical and non-technical). There are many quiz categories available like (programming languages, sport, GK, current affairs, maths, and more...) So check it out & check your knowledge in different domains with just play simple & advanced quiz.
 
